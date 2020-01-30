@@ -1,5 +1,5 @@
 # Craig Duncan
-# (c) Craig Duncan2019-2018
+# (c) Craig Duncan 2019
 # Last updated 29 August 2019
 # This works with the austlii classic site
 # http://www.austlii.edu.au/cgi-bin/sinosrch.cgi?method=auto&query=2019+wasc
